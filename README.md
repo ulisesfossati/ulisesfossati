@@ -3,7 +3,8 @@
     <h3 align="center">Estoy estudiando para ser programador en Front-end</h3>
 </div>
 ---
-![](https://komarev.com/ghpvc/?username=ulisesfossati)
+
+ 
 ### 👨‍💻 Sobre mi :
 
 - 📝 Estoy estudiando una Diplomatura en Front-end
@@ -33,6 +34,3 @@
 </div>
 
 ---
-
-### 📊 Mis stadisticas :
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
