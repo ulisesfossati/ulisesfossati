@@ -21,7 +21,7 @@
 </p>
 
 <div align="left">
-    <h3>🔨 Algunos lenguajes y herramientas</h3>
+    <h3>🔨 Algunos lenguajes y herramientas que uso en el dia a dia</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -34,3 +34,5 @@
 </div>
 
 ---
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ulisesfossati-ai&show_icons=true&locale=en&layout=compact" alt="ulisesfossati-ai" /></p>
