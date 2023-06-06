@@ -1,16 +1,23 @@
 <div id="header" align="center">
     <h1 align="center">Hola 👋, Soy Ulises Fossati</h1>
-    <h3 align="center">Estoy estudiando para ser programador</h3>
+    <h3 align="center">Estoy estudiando para ser programador en Front-end</h3>
 </div>
 ---
-
+![](https://komarev.com/ghpvc/?username=ulisesfossati)
 ### 👨‍💻 Sobre mi :
 
 - 📝 Estoy estudiando una Diplomatura en Front-end
 
 - 📫 Contactame por **ulifossati@gmail.com**
 
+<h3 align="left">Contactame por:</h3>
 
+<p align="left">
+
+<a href="https://twitter.com/UlisesFossati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@agusmacana" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ulisesfossati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ulisesfossati" height="30" width="40" /></a>
+
+</p>
 
 <div align="left">
     <h3>🔨 Algunos lenguajes y herramientas</h3>
