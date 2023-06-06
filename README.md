@@ -35,4 +35,4 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ulisesfossati-ai&show_icons=true&locale=en&layout=compact" alt="ulisesfossati-ai" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ulisesfossati=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
