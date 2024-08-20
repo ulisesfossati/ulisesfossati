@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1 align="center">Hola 👋, Soy Ulises Fossati</h1>
-    <h3 align="center">Estoy estudiando para ser programador en Front-end</h3>
+    <h3 align="center">Estoy estudiando para ser programador FullStack</h3>
 </div>
 
 
