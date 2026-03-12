@@ -32,5 +32,5 @@ Full-stack developer focused on building web applications. I'm currently working
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulisesfossati/)
+[![LinkedIn](https://www.linkedin.com/in/ulises-fossati-98350b284/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ulisesfossati.com.ar/)
